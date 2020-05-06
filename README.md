@@ -8,9 +8,8 @@ These notebooks are included to illustrate a hypothetical Machine Learning proje
 The goal of this project is to predict the heat capacity of materials given a chemical composition and condition (the measurement temperature).
 
 To read the main publication for which these notebooks are made, please see:
-```
-link coming
-```
+
+Wang, Anthony Yu-Tung; Murdock, Ryan J.; Kauwe, Steven K.; Oliynyk, Anton O.; Gurlo, Aleksander; Brgoch, Jakoah; Persson, Kristin A.; Sparks, Taylor D. (2020): [Machine Learning for Materials Scientists: An introductory guide towards best practices](https://doi.org/10.26434/chemrxiv.12249752).
 
 
 ## Table of Contents
@@ -24,8 +23,17 @@ link coming
 ## How to cite
 Please cite the following work if you choose to adopt or adapt the methods mentioned in this editorial:
 
-```
-citation coming
+Wang, Anthony Yu-Tung; Murdock, Ryan J.; Kauwe, Steven K.; Oliynyk, Anton O.; Gurlo, Aleksander; Brgoch, Jakoah; Persson, Kristin A.; Sparks, Taylor D. (2020): [Machine Learning for Materials Scientists: An introductory guide towards best practices](https://doi.org/10.26434/chemrxiv.12249752). ChemRxiv. Preprint. https://doi.org/10.26434/chemrxiv.12249752
+
+BibTeX format:
+```bibtex
+@article{Wang2020bestpractices,
+ author = {Wang, Anthony Yu-Tung and Murdock, Ryan J. and Kauwe, Steven K. and Oliynyk, Anton O. and Gurlo, Aleksander and Brgoch, Jakoah and Persson, Kristin A. and Sparks, Taylor D.},
+ date = {2020},
+ title = {Machine Learning for Materials Scientists: An introductory guide towards best practices},
+ url = {https://doi.org/10.26434/chemrxiv.12249752},
+ doi = {10.26434/chemrxiv.12249752}
+}
 ```
 
 
