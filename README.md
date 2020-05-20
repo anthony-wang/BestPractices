@@ -9,7 +9,7 @@ The goal of this project is to predict the heat capacity of materials given a ch
 
 To read the main publication for which these notebooks are made, please see:
 
-Wang, Anthony Yu-Tung; Murdock, Ryan J.; Kauwe, Steven K.; Oliynyk, Anton O.; Gurlo, Aleksander; Brgoch, Jakoah; Persson, Kristin A.; Sparks, Taylor D. (2020): [Machine Learning for Materials Scientists: An introductory guide towards best practices](https://doi.org/10.26434/chemrxiv.12249752).
+Wang, Anthony Yu-Tung; Murdock, Ryan J.; Kauwe, Steven K.; Oliynyk, Anton O.; Gurlo, Aleksander; Brgoch, Jakoah; Persson, Kristin A.; Sparks, Taylor D., [Machine Learning for Materials Scientists: An introductory guide towards best practices](https://doi.org/10.1021/acs.chemmater.0c01907), *Chemistry of Materials* **Just Accepted Manuscript**, 2020.
 
 
 ## Table of Contents
@@ -21,9 +21,9 @@ Wang, Anthony Yu-Tung; Murdock, Ryan J.; Kauwe, Steven K.; Oliynyk, Anton O.; Gu
 
 
 ## How to cite
-Please cite the following work if you choose to adopt or adapt the methods mentioned in this editorial:
+Please cite the following work if you choose to adopt or adapt the methods mentioned in this Methods/Protocols article:
 
-Wang, Anthony Yu-Tung; Murdock, Ryan J.; Kauwe, Steven K.; Oliynyk, Anton O.; Gurlo, Aleksander; Brgoch, Jakoah; Persson, Kristin A.; Sparks, Taylor D. (2020): [Machine Learning for Materials Scientists: An introductory guide towards best practices](https://doi.org/10.26434/chemrxiv.12249752). ChemRxiv. Preprint. https://doi.org/10.26434/chemrxiv.12249752
+Wang, Anthony Yu-Tung; Murdock, Ryan J.; Kauwe, Steven K.; Oliynyk, Anton O.; Gurlo, Aleksander; Brgoch, Jakoah; Persson, Kristin A.; Sparks, Taylor D., [Machine Learning for Materials Scientists: An introductory guide towards best practices](https://doi.org/10.1021/acs.chemmater.0c01907), *Chemistry of Materials* **Just Accepted Manuscript**, 2020. DOI: [10.1021/acs.chemmater.0c01907](https://doi.org/10.1021/acs.chemmater.0c01907)
 
 BibTeX format:
 ```bibtex
@@ -31,8 +31,10 @@ BibTeX format:
  author = {Wang, Anthony Yu-Tung and Murdock, Ryan J. and Kauwe, Steven K. and Oliynyk, Anton O. and Gurlo, Aleksander and Brgoch, Jakoah and Persson, Kristin A. and Sparks, Taylor D.},
  date = {2020},
  title = {Machine Learning for Materials Scientists: An introductory guide towards best practices},
- url = {https://doi.org/10.26434/chemrxiv.12249752},
- doi = {10.26434/chemrxiv.12249752}
+ issn = {0897-4756},
+ journal = {Chemistry of Materials},
+ url = {https://doi.org/10.1021/acs.chemmater.0c01907},
+ doi = {10.1021/acs.chemmater.0c01907}
 }
 ```
 
