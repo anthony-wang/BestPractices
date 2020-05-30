@@ -2,14 +2,14 @@
 
 Things that you should (and should *not*) do in your Materials Informatics research.
 
-This is a repository containing the relevant Python code and Jupyter notebooks to the publication "Machine Learning for Materials Scientists: An introductory guide towards best practices".
+This is a repository containing the relevant Python code and Jupyter notebooks to the publication "Machine Learning for Materials Scientists: An Introductory Guide toward Best Practices".
 
 These notebooks are included to illustrate a hypothetical Machine Learning project in materials science created following best practices.
 The goal of this project is to predict the heat capacity of materials given a chemical composition and condition (the measurement temperature).
 
 To read the main publication for which these notebooks are made, please see:
 
-Wang, Anthony Yu-Tung; Murdock, Ryan J.; Kauwe, Steven K.; Oliynyk, Anton O.; Gurlo, Aleksander; Brgoch, Jakoah; Persson, Kristin A.; Sparks, Taylor D., [Machine Learning for Materials Scientists: An introductory guide towards best practices](https://doi.org/10.1021/acs.chemmater.0c01907), *Chemistry of Materials* **Just Accepted Manuscript**, 2020.
+Wang, Anthony Yu-Tung; Murdock, Ryan J.; Kauwe, Steven K.; Oliynyk, Anton O.; Gurlo, Aleksander; Brgoch, Jakoah; Persson, Kristin A.; Sparks, Taylor D., [Machine Learning for Materials Scientists: An Introductory Guide toward Best Practices](https://doi.org/10.1021/acs.chemmater.0c01907), *Chemistry of Materials* **Just Accepted Manuscript**, 2020. DOI: [10.1021/acs.chemmater.0c01907](https://doi.org/10.1021/acs.chemmater.0c01907)
 
 
 ## Table of Contents
@@ -23,18 +23,18 @@ Wang, Anthony Yu-Tung; Murdock, Ryan J.; Kauwe, Steven K.; Oliynyk, Anton O.; Gu
 ## How to cite
 Please cite the following work if you choose to adopt or adapt the methods mentioned in this Methods/Protocols article:
 
-Wang, Anthony Yu-Tung; Murdock, Ryan J.; Kauwe, Steven K.; Oliynyk, Anton O.; Gurlo, Aleksander; Brgoch, Jakoah; Persson, Kristin A.; Sparks, Taylor D., [Machine Learning for Materials Scientists: An introductory guide towards best practices](https://doi.org/10.1021/acs.chemmater.0c01907), *Chemistry of Materials* **Just Accepted Manuscript**, 2020. DOI: [10.1021/acs.chemmater.0c01907](https://doi.org/10.1021/acs.chemmater.0c01907)
+Wang, Anthony Yu-Tung; Murdock, Ryan J.; Kauwe, Steven K.; Oliynyk, Anton O.; Gurlo, Aleksander; Brgoch, Jakoah; Persson, Kristin A.; Sparks, Taylor D., [Machine Learning for Materials Scientists: An Introductory Guide toward Best Practices](https://doi.org/10.1021/acs.chemmater.0c01907), *Chemistry of Materials* **Just Accepted Manuscript**, 2020. DOI: [10.1021/acs.chemmater.0c01907](https://doi.org/10.1021/acs.chemmater.0c01907)
 
-BibTeX format:
+Citation in BibTeX format:
 ```bibtex
 @article{Wang2020bestpractices,
- author = {Wang, Anthony Yu-Tung and Murdock, Ryan J. and Kauwe, Steven K. and Oliynyk, Anton O. and Gurlo, Aleksander and Brgoch, Jakoah and Persson, Kristin A. and Sparks, Taylor D.},
- date = {2020},
- title = {Machine Learning for Materials Scientists: An introductory guide towards best practices},
- issn = {0897-4756},
- journal = {Chemistry of Materials},
- url = {https://doi.org/10.1021/acs.chemmater.0c01907},
- doi = {10.1021/acs.chemmater.0c01907}
+    author = {Wang, Anthony Yu-Tung and Murdock, Ryan J. and Kauwe, Steven K. and Oliynyk, Anton O. and Gurlo, Aleksander and Brgoch, Jakoah and Persson, Kristin A. and Sparks, Taylor D.},
+    date = {2020},
+    title = {Machine Learning for Materials Scientists: An Introductory Guide toward Best Practices},
+    issn = {0897-4756},
+    journal = {Chemistry of Materials},
+    url = {https://doi.org/10.1021/acs.chemmater.0c01907},
+    doi = {10.1021/acs.chemmater.0c01907}
 }
 ```
 
