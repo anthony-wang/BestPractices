@@ -290,10 +290,10 @@ def generate_features(df, elem_prop='oliynyk',
 
     # get the column names
     cols = X.columns.values
-    # find the mean value of each column
+    # find the median value of each column
     median_values = X[cols].median()
-    # fill the missing values in each column with the columns mean value
-    X[cols] = X[cols].fillna(median_values.iloc[0])
+    # fill the missing values in each column with the column's median value
+    X[cols] = X[cols].fillna(median_values)
     return X, y, formulae, skipped
 
 
