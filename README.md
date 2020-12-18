@@ -17,7 +17,7 @@ Wang, Anthony Yu-Tung; Murdock, Ryan J.; Kauwe, Steven K.; Oliynyk, Anton O.; Gu
 * Installation
 * Opening the Jupyter notebooks
 * Using the Jupyter notebooks
-
+* Julia implementation via Pluto.jl
 
 
 ## How to cite
@@ -108,3 +108,6 @@ Some other handy keyboard shortcuts to know:
 | `Ctrl + S` | Save |
 
 For more information about how to use Jupyter notebooks, you can consult the [official Jupyter Notebook documentation](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) as well as the wealth of available information online.
+
+## Julia version via Pluto.jl
+A julia implementation can be found in the folder [pluto_notebooks](pluto_notebooks/). Additional instructions for setup are provided in the README file there. In general much of the same workflow has been kept in place the major difference is the use of julia equivalent packages (e.g., DataFrames.jl for Pandas).
