@@ -1,4 +1,4 @@
-name: bestpractices3
+name: bestpractices
 channels:
   - conda-forge
   - pytorch
