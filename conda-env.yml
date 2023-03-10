@@ -1,4 +1,4 @@
-name: bestpractices
+name: bestpractices3
 channels:
   - conda-forge
   - pytorch
@@ -16,3 +16,4 @@ dependencies:
   - tqdm=4.43.*
   - ipython
   - jupyter
+  - jinja2<3.0
