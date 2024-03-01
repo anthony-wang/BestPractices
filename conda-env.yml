@@ -16,3 +16,4 @@ dependencies:
   - tqdm=4.43.*
   - ipython
   - jupyter
+  - jinja2<3.0
